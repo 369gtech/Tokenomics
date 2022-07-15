@@ -1,6 +1,6 @@
 <h1>Tokenomics</h1>
 <p>
-The tokenomics of monoGames incorporates a very strategic sustainable approach so the monoGames can sustain its self beyound the 5 years of air drops for the monoGames Token (MTG). There are 6 components that interconnect to make monoGames sustainable today and into the future which includes;
+The tokenomics of monoGames incorporates a very strategic sustainable approach so the monoGames can sustain its self beyond the 5 years of air drops for the monoGames Token (MTG). There are 6 components that interconnect to make monoGames sustainable today and into the future which includes;
   
   <ol>
     <li>monoGames Token (MTG) Air Drop Over 5 Years</li>
@@ -13,26 +13,29 @@ The tokenomics of monoGames incorporates a very strategic sustainable approach s
 </p><p>
 1. monoGames Token (MTG) Air Drop Over 5 Years
 
-The monoGames Token (MTG) will be air dropped over 5 allocated in the pre-sales and reward systems that make monoGames work.
+The monoGames Token (MTG) will be distributed in the pre-sale and also allocated in a 5 year reward air drop systems to make monoGames work and more importantly create a  sustainable ecosystem. There will be approximately 900,000,000,000 monoGames Tokens (MTG) distributed to the monoGames Metaverse which interacts with The Real World. Here is how the monoGames Token (MTG) will be distributed;
 </p>
 <br>
 <table>
   
  <tr>
- <th>Sale</th>
+ <th>Sales</th>
  <th>Reward Air Drop</th>
  <th>Allocated %</th>
  <th>Total MTG Rewarded</th>
+ <th>Daily MTG Air Drop For 5 Years</th>
  </tr>
   
  <tr>
+ <td>Pre-Sale</td>
  <td></td>
- <td></td>
- <td></td>
+ <td>3</td>
+ <td>27,000,000,000</td>
  <td></td>
  </tr>
  
  <tr>
+ <td></td>
  <td></td>
  <td></td>
  <td></td>
@@ -44,9 +47,11 @@ The monoGames Token (MTG) will be air dropped over 5 allocated in the pre-sales 
  <td></td>
  <td></td>
  <td></td>
+ <td></td>
  </tr>
  
  <tr>
+ <td></td>
  <td></td>
  <td></td>
  <td></td>
@@ -58,9 +63,11 @@ The monoGames Token (MTG) will be air dropped over 5 allocated in the pre-sales 
  <td></td>
  <td></td>
  <td></td>
+ <td></td>
  </tr>
  
  <tr>
+ <td></td>
  <td></td>
  <td></td>
  <td></td>
@@ -72,6 +79,7 @@ The monoGames Token (MTG) will be air dropped over 5 allocated in the pre-sales 
  <td></td>
  <td></td>
  <td></td>
+ <td></td>
  </tr>
  
  <tr>
@@ -79,8 +87,120 @@ The monoGames Token (MTG) will be air dropped over 5 allocated in the pre-sales 
  <td></td>
  <td></td>
  <td></td>
+ <td></td>
  </tr>
-
+ 
+ <tr>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+   
+ <tr>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+ 
+ <tr>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+    
+ <tr>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+ 
+ <tr>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+    
+ <tr>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+ 
+ <tr>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+  
+ <tr>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+   
+ <tr>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+ 
+ <tr>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+    
+ <tr>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+ 
+ <tr>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+    
+ <tr>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+ 
+ <tr>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
   
  </table>
 <br>
