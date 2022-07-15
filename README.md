@@ -39,7 +39,7 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
  <td>9000 Accounts</td>
  <td>1%</td>
  <td>9,000,000,000</td>
- <td></td>
+ <td>Plus 12 Other Tokens</td>
  </tr>
    
  <tr>
@@ -47,7 +47,7 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
  <td>900 Accounts</td>
  <td>1%</td>
  <td>9,000,000,000</td>
- <td></td>
+ <td>Plus 12 Other Tokens</td>
  </tr>
  
  <tr>
@@ -196,6 +196,10 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
 
  </table>
 <br>
+
+I will just give you a brief over view of the Tokenomis Table above. First off all the early adopters of this game will earn great rewards but as more people join those individual reward pools those earnings will be divided every time someone joins diminishing your earning capacity. So the Pre-Sale of the monoGames Token (MTG) of 27,000,000,000 will be set at approx $0.001. There will be 9000 accounts for players investors who will need to stake 1,000,000 tokens of each of the 12 blockchain of monoGames for 5 years to earn this reward but players can as they wish, sell their investor stake to other players. There will be 900 accounts for whale investors who will need to stake 10,000,000 tokens of each of the 12 blockchains of monoGames for 5 years to earn this reward but whale investors can as they wish, sell their investor stake to other investors. monoGames will take into consideration that if we don't sell all player investor or whale investors accounts that those accounts not sold maybe donated to sustainable social good causes.
+
+
 <p>
 2. 12 Blockchain Token Sustainable Buy Back Of The monoGames Token (MTG) at 20%
 </p><p>  
