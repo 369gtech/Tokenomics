@@ -16,7 +16,7 @@ The tokenomics of monoGames incorporates a very strategic sustainable approach s
 The monoGames Token (MTG) will be distributed in the pre-sale and also allocated in a 5 year reward air drop systems to make monoGames work and more importantly create a  sustainable ecosystem. There will be approximately 900,000,000,000 monoGames Tokens (MTG) distributed to the monoGames Metaverse which interacts with The Real World. Here is how the monoGames Token (MTG) will be distributed;
 </p>
 <br>
-<table>
+<table class="center">
   
  <tr>
  <th>Sales</th>
@@ -29,65 +29,65 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
  <tr>
  <td>Pre-Sale</td>
  <td></td>
- <td>3</td>
+ <td>3%</td>
  <td>27,000,000,000</td>
  <td></td>
  </tr>
  
  <tr>
+ <td>Pre-Sale Game Investor</td>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>1%</td>
+ <td>9,000,000,000</td>
  <td></td>
  </tr>
    
  <tr>
+ <td>Pre-Sale Whale Investor</td>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>1%</td>
+ <td>9,000,000,000</td>
  <td></td>
  </tr>
  
  <tr>
+ <td>Special nftcryptomix</td>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>1%</td>
+ <td>9,000,000,000</td>
  <td></td>
  </tr>
     
  <tr>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>monoGames Team</td>
+ <td>6%</td>
+ <td>54,000,000,000</td>
+ <td>Approx 29,589,041.0</td>
  </tr>
  
  <tr>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>Game Developers</td>
+ <td>2%</td>
+ <td>18,000,000,000</td>
+ <td>Approx 9,863,013.6</td>
  </tr>
     
  <tr>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>Social Developers</td>
+ <td>2%</td>
+ <td>18,000,000,000</td>
+ <td>Approx 9,863,013.6</td>
  </tr>
  
  <tr>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>Sustainable Developers</td>
+ <td>2%</td>
+ <td>18,000,000,000</td>
+ <td>Approx 9,863,013.6</td>
  </tr>
  
  <tr>
