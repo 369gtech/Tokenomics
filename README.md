@@ -36,7 +36,7 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
  
  <tr>
  <td>Pre-Sale Game Investor</td>
- <td></td>
+ <td>9000 Accounts</td>
  <td>1%</td>
  <td>9,000,000,000</td>
  <td></td>
@@ -44,7 +44,7 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
    
  <tr>
  <td>Pre-Sale Whale Investor</td>
- <td></td>
+ <td>900 Accounts</td>
  <td>1%</td>
  <td>9,000,000,000</td>
  <td></td>
@@ -124,84 +124,76 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
  
  <tr>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>Game Rewards</td>
+ <td>21%</td>
+ <td>189,000,000,000</td>
+ <td>Approx 103,561,643.8</td>
  </tr>
     
  <tr>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>DOU P2E</td>
+ <td>12%</td>
+ <td>108,000,000,000</td>
+ <td>Approx 59,178,082.1</td>
  </tr>
  
  <tr>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>Social2E</td>
+ <td>12%</td>
+ <td>108,000,000,000</td>
+ <td>Approx 59,178,082.1</td>
  </tr>
   
  <tr>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>Sustainable2E</td>
+ <td>12%</td>
+ <td>108,000,000,000</td>
+ <td>Approx 59,178,082.1</td>
  </tr>
    
  <tr>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>Whale Investor</td>
+ <td>6%</td>
+ <td>54,000,000,000</td>
+ <td>Approx 29,589,041.0</td>
  </tr>
  
  <tr>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>Game Investor</td>
+ <td>2%</td>
+ <td>18,000,000,000</td>
+ <td>Approx 9,863,013.6</td>
  </tr>
     
  <tr>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
- </tr>
- 
- <tr>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
- </tr>
-    
- <tr>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
- </tr>
- 
- <tr>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>NFT Staking</td>
+ <td>2%</td>
+ <td>18,000,000,000</td>
+ <td>Approx 9,863,013.6</td>
  </tr>
   
+ <tr>
+ <td></td>
+ <td>Land Staking</td>
+ <td>2%</td>
+ <td>18,000,000,000</td>
+ <td>Approx 9,863,013.6</td>
+ </tr>
+ 	 
+ <tr>
+ <td></td>
+ <td>Staking 1Mil NFTCM</td>
+ <td>1%</td>
+ <td>9,000,000,000</td>
+ <td>Approx 4,931,506</td>
+ </tr>
+
  </table>
 <br>
 <p>
