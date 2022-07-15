@@ -68,7 +68,7 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
  
  <tr>
  <td></td>
- <td>Game Developers</td>
+ <td>Game Dev's</td>
  <td>2%</td>
  <td>18,000,000,000</td>
  <td>Approx 9,863,013.6</td>
@@ -76,7 +76,7 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
     
  <tr>
  <td></td>
- <td>Social Developers</td>
+ <td>Social Dev's</td>
  <td>2%</td>
  <td>18,000,000,000</td>
  <td>Approx 9,863,013.6</td>
@@ -84,7 +84,7 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
  
  <tr>
  <td></td>
- <td>Sustainable Developers</td>
+ <td>Sustainable Dev's</td>
  <td>2%</td>
  <td>18,000,000,000</td>
  <td>Approx 9,863,013.6</td>
@@ -92,34 +92,34 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
  
  <tr>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>Security</td>
+ <td>3%</td>
+ <td>27,000,000,000</td>
+ <td>Approx 14,794,520.5</td>
  </tr>
    
  <tr>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>Support (Q/T/A)</td>
+ <td>3%</td>
+ <td>27,000,000,000</td>
+ <td>Approx 14,794,520.5</td>
  </tr>
  
  <tr>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>Art Community</td>
+ <td>3%</td>
+ <td>27,000,000,000</td>
+ <td>Approx 14,794,520.5</td>
  </tr>
     
  <tr>
  <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
+ <td>Promo's & G-Away's</td>
+ <td>3%</td>
+ <td>27,000,000,000</td>
+ <td>Approx 14,794,520.5</td>
  </tr>
  
  <tr>
