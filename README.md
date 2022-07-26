@@ -42,7 +42,7 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
  <td>9000 Accounts</td>
  <td>1%</td>
  <td>9,000,000,000</td>
- <td>Plus 12 Other Tokens</td>
+ <td>Plus 12 Other Tokens (Sale Only)</td>
  </tr>
    
  <tr>
@@ -50,7 +50,7 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
  <td>900 Accounts</td>
  <td>1%</td>
  <td>9,000,000,000</td>
- <td>Plus 12 Other Tokens</td>
+ <td>Plus 12 Other Tokens (Sale Only)</td>
  </tr>
  
  <tr>
@@ -58,7 +58,7 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
  <td></td>
  <td>1%</td>
  <td>9,000,000,000</td>
- <td></td>
+ <td>Give Away To NFTCM Holders</td>
  </tr>
     
  <tr>
