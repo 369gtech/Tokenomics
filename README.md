@@ -1,9 +1,9 @@
 <h1>Tokenomics</h1>
 <p>
-The tokenomics of monoGames incorporates a very strategic sustainable approach so monoGames can sustain its self beyond the 5 years of air drops for the monoGames Token (MTG). There are 8 components that interconnect to make monoGames sustainable today and into the future and also a short summary which includes;
+The tokenomics of monoGames incorporates a very strategic sustainable approach so monoGames can sustain itself beyond the 5 years of air drops for the monoGames Token (MTG). There are 8 components that interconnect to make monoGames sustainable today and into the future and also a short summary which includes;
   
   <ol>
-    <li>monoGames Token (MTG) Air Drop Over 5 Years</li>
+    <li>monoGames Token (MTG) Airdrop Over 5 Years</li>
     <li>12 Blockchain Token Sustainable Buy Back Of The monoGames Token (MTG) at 20%</li>
     <li>Adding Blockchains In The Future</li>
     <li>Interactive Sustainable Partnerships</li>
@@ -16,7 +16,7 @@ The tokenomics of monoGames incorporates a very strategic sustainable approach s
 </p><p>
 1. monoGames Token (MTG) Air Drop Over 5 Years
 
-The monoGames Token (MTG) will be distributed in the pre-sale and also allocated in a 5 year reward air drop systems to make monoGames work and more importantly create a  sustainable ecosystem. There will be approximately 900,000,000,000 monoGames Tokens (MTG) distributed to the monoGames Metaverse which interacts with The Real World. Here is how the monoGames Token (MTG) will be distributed;
+The monoGames Token (MTG) will be distributed in the pre-special giveaway/sale and also allocated in a 5 year reward airdrop systems to make monoGames Token a community Token, giving the community to power to set the value and more importantly create a sustainable ecosystem. There will be approximately 900,000,000,000 monoGames Tokens (MTG) distributed to the monoGames Metaverse which interacts with The Real World. Here is how the monoGames Token (MTG) will be distributed;
 </p>
 <br>
 <table class="center">
@@ -30,7 +30,7 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
  </tr>
   
  <tr>
- <td>Pre-Sale</td>
+ <td>Pre-Special GiveAway/Sale</td>
  <td></td>
  <td>3%</td>
  <td>27,000,000,000</td>
@@ -38,7 +38,7 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
  </tr>
  
  <tr>
- <td>Pre-Sale Game Investor</td>
+ <td>Pre-Sale Silver Member</td>
  <td>9000 Accounts</td>
  <td>1%</td>
  <td>9,000,000,000</td>
@@ -46,7 +46,7 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
  </tr>
    
  <tr>
- <td>Pre-Sale Whale Investor</td>
+ <td>Pre-Sale Gold Member</td>
  <td>900 Accounts</td>
  <td>1%</td>
  <td>9,000,000,000</td>
@@ -159,7 +159,7 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
    
  <tr>
  <td></td>
- <td>Whale Investor</td>
+ <td>Gold Member</td>
  <td>6%</td>
  <td>54,000,000,000</td>
  <td>Approx 29,589,041.0</td>
@@ -167,7 +167,7 @@ The monoGames Token (MTG) will be distributed in the pre-sale and also allocated
  
  <tr>
  <td></td>
- <td>Game Investor</td>
+ <td>Silver Member/td>
  <td>2%</td>
  <td>18,000,000,000</td>
  <td>Approx 9,863,013.6</td>
