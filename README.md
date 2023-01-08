@@ -220,7 +220,9 @@ Buying a Bronze Membership let you earn Citizenship in monoGames and the ability
 Cost: $5000 US Dollars and Upwards<br>
 Limited To 9000 Membership<br>
 Buying a Silver Membership will offer you many special benefits which includes all NFT’s at Epic Level, Silver Membership Daily Air Drop, 100 Free NFT Mega Packs, 10 Free Land Plots and many more rewards which will be given as the game evolves. </p>
-<li>Gold  $10,000 US Dollars (Pre-Sale)<br>
+<p>
+<li>Gold Membership</li>
+Gold  $10,000 US Dollars (Pre-Sale)<br>
 Cost: $50,000 US Dollars and Upwards<br>
 Limited To 900 Membership<br>
 Buying a Gold Membership will offer you many special benefits which includes all NFT’s at monoTomic Gold Level, Gold Membership Daily Air Drop, 1000 Free NFT Mega Packs, 100 Free Land Plots and many more rewards which will be given as the game evolves.</p>
