@@ -225,7 +225,7 @@ Cost: $50,000 US Dollars and Upwards<br>
 Limited To 900 Membership<br>
 Buying a Gold Membership will offer you many special benefits which includes all NFT’s at monoTomic Gold Level, Gold Membership Daily Air Drop, 1000 Free NFT Mega Packs, 100 Free Land Plots and many more rewards which will be given as the game evolves.</p>
 </ol>
-<p>If you are one of the 82 founding members of monoGames and have been following and have received nftcryptomix reward tokens and monoGames tokens then you will receive at least one Free Silver and one Free Gold account. The higher the amount of nftcrytpomix tokens and monoGames tokens you have, will earnt you multiple accounts and I thank you all for promoting and supporting monoGames in the build up to the release. monoGames will take into consideration that if we don't sell all Silver Memberships or Gold Memberships over the 5 year period, that those accounts not sold may be donated to sustainable social good causes.</p>
+<p>If you are one of the 82 founding members of monoGames and have been following and have received nftcryptomix reward tokens and monoGames tokens then you will receive at least one Free Silver and one Free Gold account. The higher the amount of nftcryptomix tokens and monoGames tokens you have, will have earnt you multiple accounts and I thank you all for promoting and supporting monoGames in the build up to the release. monoGames will take into consideration that if we don't sell all Silver Memberships or Gold Memberships over the 5 year period, that those accounts not sold may be donated to sustainable social good causes.</p>
 
 </p><p>
 3. 12 Blockchain Token Sustainable Buy Back Of The monoGames Token (MTG) at 20%
